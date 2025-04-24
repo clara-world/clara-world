@@ -37,9 +37,9 @@ I specialize in:
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| \\ [Retail Sales Insights](https://github.com/yourusername/retail-sales-insights) | Analysis of sales data to uncover trends, seasonality, and promotional impact. | Python, Pandas, Power BI |
-| \\ [Customer Churn Prediction](https://github.com/yourusername/churn-prediction) | Logistic regression & visualization of churn factors. | Python, Scikit-learn, Seaborn |
-| \\ [SQL Data Exploration](https://github.com/yourusername/sql-data-exploration) | Complex queries and data cleaning in SQL. | PostgreSQL |
+| [Retail Customer Analysis](https://github.com/yourusername/WIP) | Segmentations, Cohort Analysis, Customer Behaviours | Python, Pandas, Power BI |
+| [Customer Churn Prediction](https://github.com/yourusername/churn-prediction) | Logistic regression & visualization of churn factors. | Python, Scikit-learn, Seaborn |
+| [SQL Data Exploration](https://github.com/yourusername/sql-data-exploration) | Complex queries and data cleaning in SQL. | PostgreSQL |
 
 ---
 

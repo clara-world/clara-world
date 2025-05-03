@@ -33,7 +33,7 @@ I specialize in:
 
 ---
 
-### 📁 Portfolio Projects
+### 📁 Portfolio Projects (WIP)
 
 | Project | Description | Tools |
 |--------|-------------|-------|
